@@ -1,9 +1,11 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://cdn.staticaly.com/gh/Trrrrw/image-hosting@master/images/EatElysia.gif" width="100" height="100" alt="EatElysia
+"></a>
 </p>
 <div align="center">
 
-# EatKano
+# EatElysia
+
 
 _🦌 网页小游戏 🥛_
 
@@ -12,11 +14,11 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉小爱莉
 
 [English](README_EN.md)
 |
-[鹿乃b站](https://space.bilibili.com/316381099)
+[爱莉b站](https://space.bilibili.com/316381099)
 |
 [线上版本](https://xingye.me/game/eatkano/index.php)
 |

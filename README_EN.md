@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://xingye.me/game/eatkano"><img src="https://cdn.staticaly.com/gh/Trrrrw/image-hosting@master/images/EatElysia.gif" width="100" height="100" alt="EatElysia"></a>
 </p>
 
 <div align="center">
 
-# EatKano
+# EatElysia
 
 _🦌 Web Game 🥛_
 
@@ -12,7 +12,7 @@ _🦌 Web Game 🥛_
 
 
 ## Introduction
-A web game: EatKano
+A web game: EatElysia
 
 [Kano's Twitter](https://twitter.com/kano_2525)
 |
